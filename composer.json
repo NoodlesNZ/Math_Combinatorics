@@ -18,11 +18,5 @@
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Math_Combinatorics",
         "source": "https://github.com/pear/Math_Combinatorics"
     },
-    "type": "library",
-    "require": {
-        "pear/pear_exception": "~1.0.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "*"
-    }
+    "type": "library"
 }
